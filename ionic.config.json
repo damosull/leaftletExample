@@ -1,5 +1,7 @@
 {
   "name": "leafletExample",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
